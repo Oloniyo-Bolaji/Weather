@@ -1,0 +1,8 @@
+.weather{
+  background: rgba(30, 0, 120, 0.7);
+  color:white;
+  display: flex;
+  flex-direction: column;
+  gap:10px;
+}
+
